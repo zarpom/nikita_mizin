@@ -18,11 +18,14 @@ public class DecimalToBinary {
 //        }
 
 
-        int number = 100;
+        int number = 10;
         while (number != 0){
             System.out.print(number % 2);
             number /= 2;
         }
+
+
+
 
 //        for ( int number = 11; number != 0; number /= 2){
 //            System.out.print(number % 2);
