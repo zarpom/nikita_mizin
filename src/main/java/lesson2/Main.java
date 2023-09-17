@@ -29,10 +29,13 @@ public class Main {
 
         int b1 = 0;
         int i1 = 129;// 127 + 2
-        b1 =   i1;
+        b1 = i1;
 
         System.out.println(b1);
         // 127 + 1 = -128 + 1 = -127
-       // 127 + 1 = -128 + 1 = -127
+        // 127 + 1 = -128 + 1 = -127
+        byte byteY = (byte) 1000000123;
+        int i = 12;
+        System.out.println("byteY=" + byteY);
     }
 }
