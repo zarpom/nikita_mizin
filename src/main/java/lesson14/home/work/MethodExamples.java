@@ -1,4 +1,4 @@
-package lesson14;
+package lesson14.home.work;
 public class MethodExamples {
 
     // Введення до методів в Java
